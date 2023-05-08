@@ -22,6 +22,9 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 
 [Add more projects as necessary]
 
+## Other Practices
+
+I have also completed numerous SQL practice projects, which have allowed me to hone my skills in data querying, manipulation, and analysis. These hands-on exercises range from simple to complex problems and have greatly enhanced my proficiency in SQL. My passion for data-driven insights is evident through these projects, as I continue to explore new ways to solve real-world problems using SQL. By showcasing these practices in my portfolio, I aim to demonstrate my dedication to learning and mastering SQL, as well as my ability to adapt and apply my skills to various data challenges.
 
 ## Contact
 
