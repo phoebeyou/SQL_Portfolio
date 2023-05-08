@@ -11,7 +11,7 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 
 **Description:** Use summary statistics and filters to analyze test scores across New York City's public schools.
 
-- [placeholder](link-to-project-folder)
+- [Project#1: Analyzing NYC Public School Test Result Scores](./Project%231%20Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
 
 
 ### Project 2: [Project Name]
