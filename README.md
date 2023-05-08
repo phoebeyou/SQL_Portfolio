@@ -20,7 +20,7 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 
 - [placeholder](link-to-project-folder)
 
-[Add more projects as necessary]
+......
 
 ## Other Practices
 
