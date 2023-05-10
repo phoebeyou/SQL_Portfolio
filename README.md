@@ -7,11 +7,11 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 
 ## Projects
 
-### Project 1: Project: Analyzing NYC Public School Test Result Scores
+### Project 1: Iris
 
-**Description:** Use summary statistics and filters to analyze test scores across New York City's public schools.
+**Description:** In this project, I performed an analysis on the Iris dataset, which contains measurements for 150 iris flowers from three different species.
 
-- [Project#1: Analyzing NYC Public School Test Result Scores](./Project%231%20Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
+- [Project#1: Iris](Project%231-Iris.sql)
 
 
 ### Project 2: Titanic
