@@ -12,6 +12,7 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 **Description:** In this project, I performed an analysis on the Iris dataset, which contains measurements for 150 iris flowers from three different species.
 
 - [Project#1: Iris](Project%231-Iris.sql)
+- [Raw dataset](iris.csv)
 
 
 ### Project 2: Titanic
