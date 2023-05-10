@@ -18,7 +18,7 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 
 **Description:** In this project, I perform a data analysis of the Titanic dataset, using SQL to explore passenger demographics, survival rates, and correlations between variables to gain insights into factors that might have influenced passengers' chances of survival
 
-- [Project#2: Titanic](link-to-project-folder)
+- [Project#2: Titanic](Project%232-Titanic.sql)
 
 ### Project 3: PH
 
