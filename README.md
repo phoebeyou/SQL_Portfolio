@@ -14,11 +14,17 @@ Welcome to my SQL portfolio! As an intermediate beginner passionate about learni
 - [Project#1: Analyzing NYC Public School Test Result Scores](./Project%231%20Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
 
 
-### Project 2: [Project Name]
+### Project 2: Titanic
 
-**Description:** placeholder
+**Description:** In this project, I perform a data analysis of the Titanic dataset, using SQL to explore passenger demographics, survival rates, and correlations between variables to gain insights into factors that might have influenced passengers' chances of survival
 
-- [placeholder](link-to-project-folder)
+- [Project#2: Titanic](link-to-project-folder)
+
+### Project 3: PH
+
+**Description:** PH
+
+- [Project#3: PH](link-to-project-folder)
 
 ......
 
